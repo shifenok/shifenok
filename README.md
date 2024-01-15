@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shifenok
-- 👀 I’m interested in Golang Rust
+- 👀 I’m interested in Rust
 
 <!---
 shifenok/shifenok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
